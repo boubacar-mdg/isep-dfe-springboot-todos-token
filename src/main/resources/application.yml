@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3308/todos
+    url: jdbc:mysql://localhost:3308/todos_db
     username: root
-    password: gafrica
+    password: 
     driver-class-name: com.mysql.cj.jdbc.Driver
     hikari:
       maximum-pool-size: 10
